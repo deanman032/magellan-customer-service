@@ -4,7 +4,7 @@ How to Contact Magellan Customer Service? 📞🗺️
 
 Whether you're dealing with a stubborn map update 😩, a frozen screen, or you just have a quick question about your **Magellan RoadMate**, don’t worry — help is just around the corner! 🛣️
 
-.. image:: start.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
